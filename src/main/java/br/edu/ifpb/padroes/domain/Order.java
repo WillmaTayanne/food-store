@@ -2,7 +2,6 @@ package br.edu.ifpb.padroes.domain;
 
 import java.time.Instant;
 import java.util.List;
-
 public class Order {
 
     private Long id;

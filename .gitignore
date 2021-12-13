@@ -1,3 +1,4 @@
 .idea
 food-store.iml
 target/
+/bin/

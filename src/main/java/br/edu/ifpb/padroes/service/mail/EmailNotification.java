@@ -2,6 +2,7 @@ package br.edu.ifpb.padroes.service.mail;
 
 import br.edu.ifpb.padroes.domain.Customer;
 
+
 public class EmailNotification {
 
     private String emailAdministration = "contact@food-store.com";
